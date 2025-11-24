@@ -1,5 +1,5 @@
 
-name: PSCHO
+name: PSYCHO
 
 on:
   workflow_dispatch:
